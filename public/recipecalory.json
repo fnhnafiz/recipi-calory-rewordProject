@@ -1,0 +1,104 @@
+[
+  {
+    "recipe_image": "https://i.postimg.cc/QxgVYvBG/pexels-ash-craig-122861-376464.jpg",
+    "recipe_id": 1,
+    "recipe_name": "Chicken Curry",
+    "short_description": "A delicious and aromatic Indian chicken curry.",
+    "ingredients": [
+      "500 g chicken",
+      " onion",
+      " cloves garlic",
+      " teaspoon ginger paste",
+      " can coconut milk",
+      " tablespoon curry powder",
+      " teaspoon garam masala",
+      "Salt to taste"
+    ],
+    "preparing_time": 45,
+    "calories": 350
+  },
+  {
+    "recipe_image": "https://i.postimg.cc/bw3rpbHm/pexels-robinstickel-70497.jpg",
+    "recipe_id": 2,
+    "recipe_name": "Vegetable Stir-Fry",
+    "short_description": "A healthy and colorful stir-fry with a variety of vegetables.",
+    "ingredients": [
+      " tablespoon olive oil",
+      " onion",
+      " bell pepper",
+      " carrot",
+      " broccoli floret",
+      " cup soy sauce",
+      " tablespoon rice vinegar"
+    ],
+    "preparing_time": 30,
+    "calories": 200
+  },
+  {
+    "recipe_image": "https://i.postimg.cc/Gpt222Xd/pexels-ella-olsson-572949-1640772.jpg",
+    "recipe_id": 3,
+    "recipe_name": "Pasta with Tomato Sauce",
+    "short_description": "A classic Italian dish with a simple and flavorful tomato sauce.",
+    "ingredients": [
+      " pound pasta",
+      " can crushed tomatoes",
+      " onion",
+      " cloves garlic",
+      " tablespoon olive oil",
+      " cup grated Parmesan cheese"
+    ],
+    "preparing_time": 35,
+    "calories": 400
+  },
+  {
+    "recipe_image": "https://i.postimg.cc/bw3rpbHm/pexels-robinstickel-70497.jpg",
+    "recipe_id": 4,
+    "recipe_name": "Grilled Salmon",
+    "short_description": "A healthy and delicious grilled salmon with lemon and herbs.",
+    "ingredients": [
+      " pound salmon fillet",
+      " lemon",
+      " tablespoon olive oil",
+      " teaspoon dried thyme",
+      "teaspoon salt",
+      "teaspoon black pepper"
+    ],
+    "preparing_time": 20,
+    "calories": 300
+  },
+  {
+    "recipe_image": "https://i.postimg.cc/Gpt222Xd/pexels-ella-olsson-572949-1640772.jpg",
+    "recipe_id": 5,
+    "recipe_name": "Avocado Toast",
+    "short_description": "A quick and easy breakfast or snack with avocado and toast.",
+    "ingredients": [
+      "slice bread",
+      "avocado",
+      "tomato, diced",
+      " 1/4 cups flour",
+      " teaspoon baking soda",
+      " tablespoon lemon juice",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 5,
+    "calories": 150
+  },
+  {
+    "recipe_image": "https://i.postimg.cc/QxgVYvBG/pexels-ash-craig-122861-376464.jpg",
+    "recipe_id": 6,
+    "recipe_name": "Chocolate Chip Cookies",
+    "short_description": "A classic and delicious chocolate chip cookie recipe.",
+    "ingredients": [
+      " cup butter, softened",
+      " cup granulated sugar",
+      " cup brown sugar",
+      " eggs",
+      " 1/4 cups flour",
+      " teaspoon baking soda",
+      " teaspoon salt",
+      " cup chocolate chips"
+    ],
+    "preparing_time": 30,
+    "calories": 250
+  }
+]
